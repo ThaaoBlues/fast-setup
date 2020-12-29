@@ -1,7 +1,7 @@
 Python
 "https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe"
 
-python-installer.exe /quiet InstallAllUsers=1 Include_doc=0 PrependPath=1
+python-installer.exe
 
 VScode
 "https://go.microsoft.com/fwlink/?LinkID=534107"
