@@ -1,0 +1,9 @@
+Python
+VScode
+Discord
+GNU-GCC
+GIT
+Anaconda
+Java-JRE
+Java-JDK
+Android-Studio
