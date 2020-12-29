@@ -7,3 +7,5 @@ Anaconda
 Java-JRE
 Java-JDK
 Android-Studio
+Sublime-Text
+Chrome-WebBrowser

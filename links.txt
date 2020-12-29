@@ -1,7 +1,7 @@
 Python
 "https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe"
 
-python-installer.exe
+python-installer.exe /quiet InstallAllUsers=1 Include_doc=0 PrependPath=1
 
 VScode
 "https://go.microsoft.com/fwlink/?LinkID=534107"
@@ -43,6 +43,12 @@ Android-Studio
 
 android-studio-installer.exe
 
-TO UNINSTALL :
+Sublime-Text
+"https://download.sublimetext.com/Sublime Text Build 3211 x64 Setup.exe"
 
+sublime-text-installer.exe
 
+Chrome-WebBrowser
+"https://dl.google.com/chrome/install/latest/chrome_installer.exe"
+
+chrome-installer.exe
