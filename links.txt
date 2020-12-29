@@ -1,48 +1,48 @@
-PYTHON :
+Python
 "https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe"
 
 python-installer.exe /quiet InstallAllUsers=1 Include_doc=0 PrependPath=1
 
-VSCODE :
+VScode
 "https://go.microsoft.com/fwlink/?LinkID=534107"
 
 vscode-installer.exe
 
-DISCORD :
+Discord
 "https://discord.com/api/download?platform=win"
 
 discord-installer.exe
 
-GNU GCC :
+GNU-GCC
 "https://osdn.net/projects/mingw/downloads/68260/mingw-get-setup.exe/"
 
 gnugcc-installer.exe
 
-GIT :
+GIT
 "https://github.com/git-for-windows/git/releases/download/v2.30.0.windows.1/Git-2.30.0-64-bit.exe"
 
 git-installer.exe
 
-ANACONDA :
+Anaconda
 "https://repo.anaconda.com/archive/Anaconda3-2020.11-Windows-x86_64.exe"
 
 anaconda-installer.exe
 
-JRE :
+Java-JRE
 "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=243737_61ae65e088624f5aaa0b1d2d801acb16"
 
 jre-installer.exe
 
-JDK :
+Java-JDK
 "https://download.oracle.com/otn-pub/java/jdk/15.0.1%2B9/51f4f36ad4ef43e39d0dfdbaf6549e32/jdk-15.0.1_windows-x64_bin.exe"
 
 jdk-installer.exe
 
-ANDROID STUDIO :
+Android-Studio
 "https://redirector.gvt1.com/edgedl/android/studio/install/4.1.1.0/android-studio-ide-201.6953283-windows.exe"
 
 android-studio-installer.exe
 
 TO UNINSTALL :
-product where name=”name of program” call uninstall /nointeractive
+
 
