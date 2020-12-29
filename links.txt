@@ -52,3 +52,13 @@ Chrome-WebBrowser
 "https://dl.google.com/chrome/install/latest/chrome_installer.exe"
 
 chrome-installer.exe
+
+Opera-WebBrowser
+"https://net.geo.opera.com/opera/stable/windows?utm_tryagain=yes&utm_source=google_via_opera_com&utm_medium=ose&utm_campaign=(none)_via_opera_com_https&http_referrer=https%3A%2F%2Fwww.google.com%2F&utm_site=opera_com"
+
+opera-installer.exe
+
+Node-js
+"https://nodejs.org/dist/v14.15.3/node-v14.15.3-x64.msi"
+
+nodejs-installer.msi

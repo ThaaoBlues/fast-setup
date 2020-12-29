@@ -9,3 +9,5 @@ Java-JDK
 Android-Studio
 Sublime-Text
 Chrome-WebBrowser
+Opera-WebBrowser
+Node-js
