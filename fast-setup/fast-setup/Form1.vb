@@ -5,10 +5,14 @@
         Dim i As Int32 = Array.IndexOf(temp, name) + 1
         Dim url As String = temp(i)
         Dim exec_name As String = temp(i + 2)
-        Dim proc As Process = Process.Start("cmd", "/min /c curl -L """ + url + """ -o " + exec_name)
+        Dim proc As Process = Process.Start("cmd", "/c curl -L """ + url + """ -o " + exec_name)
         proc.WaitForExit()
-        proc = Process.Start(exec_name)
-        proc.WaitForInputIdle()
+        If exec_name.Contains(".msi") Then
+            proc = Process.Start("cmd.exe", "/c msiexec /i " + exec_name)
+        Else
+            proc = Process.Start(exec_name)
+        End If
+
     End Sub
 
     Private Sub uninstall_selected_components()
