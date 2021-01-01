@@ -13,3 +13,5 @@ Opera-WebBrowser
 Node-js
 Steam
 Epic-Games Launcher
+Arduino-IDE
+cpu-z

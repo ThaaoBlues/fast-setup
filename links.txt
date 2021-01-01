@@ -72,3 +72,13 @@ Epic-Games Launcher
 "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi"
 
 epicg-launcher-installer.msi
+
+Arduino-IDE
+"https://downloads.arduino.cc/arduino-1.8.13-windows.exe"
+
+arduino-ide-installer.exe
+
+cpu-z
+"https://download.cpuid.com/cpu-z/cpu-z_1.94-en.exe"
+
+cpuz-installer.exe
