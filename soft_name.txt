@@ -11,3 +11,5 @@ Sublime-Text
 Chrome-WebBrowser
 Opera-WebBrowser
 Node-js
+Steam
+Epic-Games Launcher

@@ -62,3 +62,13 @@ Node-js
 "https://nodejs.org/dist/v14.15.3/node-v14.15.3-x64.msi"
 
 nodejs-installer.msi
+
+Steam
+"https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe"
+
+steam-installer.exe
+
+Epic-Games Launcher
+"https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi"
+
+epicg-launcher-installer.msi
