@@ -82,3 +82,8 @@ cpu-z
 "https://download.cpuid.com/cpu-z/cpu-z_1.94-en.exe"
 
 cpuz-installer.exe
+
+Heroku-cli
+"https://cli-assets.heroku.com/heroku-x64.exe"
+
+heroku-installer.exe
