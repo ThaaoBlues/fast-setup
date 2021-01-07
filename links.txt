@@ -87,3 +87,8 @@ Heroku-cli
 "https://cli-assets.heroku.com/heroku-x64.exe"
 
 heroku-installer.exe
+
+GitHub-cli
+"https://github.com/cli/cli/releases/download/v1.4.0/gh_1.4.0_windows_amd64.msi"
+
+github-cli-installer.msi

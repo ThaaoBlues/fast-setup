@@ -16,3 +16,4 @@ Epic-Games Launcher
 Arduino-IDE
 cpu-z
 Heroku-cli
+GitHub-cli
