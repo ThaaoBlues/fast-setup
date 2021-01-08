@@ -92,3 +92,23 @@ GitHub-cli
 "https://github.com/cli/cli/releases/download/v1.4.0/gh_1.4.0_windows_amd64.msi"
 
 github-cli-installer.msi
+
+Radarr
+"https://radarr.servarr.com/v1/update/master/updatefile?os=windows&runtime=netcore&arch=x64&installer=true"
+
+radarr-installer.exe
+
+Sonarr
+"https://download.sonarr.tv/v2/master/latest/NzbDrone.master.exe"
+
+sonarr-installer.exe
+
+Jackett
+"https://github.com/Jackett/Jackett/releases/download/v0.17.207/Jackett.Installer.Windows.exe"
+
+jackett-installer.exe
+
+Tor-Transparent-Proxy
+"https://reqrypt.org/download/TallowBundle-2.0-install.exe"
+
+tor-proxy-installer.exe

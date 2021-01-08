@@ -17,3 +17,7 @@ Arduino-IDE
 cpu-z
 Heroku-cli
 GitHub-cli
+Radarr
+Sonarr
+Jackett
+Tor-Transparent-Proxy
